@@ -1,3 +1,8 @@
+---
+
+comments: true
+---
+
 # What We Offer  
 
 ## 🌟 Empowering You Through Knowledge and Connection  

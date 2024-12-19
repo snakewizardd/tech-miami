@@ -1,3 +1,8 @@
+---
+
+comments: true
+---
+
 # Learning to Code - First Steps 
 
 Welcome! If you're reading this, you’ve probably decided to take the exciting first step into the world of coding. Whether you’ve been curious about programming for a while or you’re just starting to explore, this article is for you.  

@@ -4,7 +4,7 @@ authors:
 categories:
   - Automation
 date: 2024-12-18
-
+comments: true
 ---
 
 # Getting Started with Docker: A Beginner's Guide

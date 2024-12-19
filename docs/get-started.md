@@ -1,3 +1,8 @@
+---
+
+comments: true
+---
+
 # Getting Started  
 
 Welcome to **Tech Miami**! We’re excited to have you here. Whether you’re just starting your journey in tech or you’re an experienced developer looking to expand your knowledge, we’ve designed this site to be intuitive and easy to navigate. This guide will walk you through how to make the most of your experience here.

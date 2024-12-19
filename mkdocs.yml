@@ -11,6 +11,7 @@ theme:
   favicon: assets/images/clown.ico
   palette: 
     scheme: slate
+  custom_dir: overrides
    
 plugins:
   - search

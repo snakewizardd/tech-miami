@@ -1,3 +1,8 @@
+---
+
+comments: true
+---
+
 #### 🏁 Beginner's Resource:  
 - [Learning to Code - First Steps](beginning-to-code.md)
 
