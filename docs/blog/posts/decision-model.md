@@ -56,6 +56,20 @@ $$
 - **R(Dₙ, FMₙ) = Information Gained from the Choosing Process:**  
    Represents the **knowledge gained** through evaluating your choices. This includes new facts (IΔ) and insights from the process itself.
 
+
+| Parameter                  | Description                                                                                   |
+| -------------------------- | --------------------------------------------------------------------------------------------- |
+| **Fₙ**                     | :material-arrow-right: **Choice Taken**: The decision or choice made at the current moment.   |
+| **P₀**                     | :material-target: **Initial Goal**: The starting point or desired outcome.                   |
+| **kFₙ₋₁**                  | :material-refresh: **Effect of Previous Moment**: How the prior decision influences the current goal. |
+| **m**                      | :material-timer: **Rate Vector**: Factors like time, motivation, and attention shaping the process. |
+| **Iₙ**                     | :material-information: **Original Factual Information**: Initial data at the decision's start. |
+| **IΔ**                     | :material-database: **Facts Acquired Throughout**: New information gathered during the process. |
+| **Dₙ**                     | :material-menu-open: **Potential Choices**: The set of options available at the decision point. |
+| **FMₙ**                    | :material-compare: **Subjective & Objective Assessments**: Evaluations of choices using personal and factual inputs. |
+| **R(Dₙ, FMₙ)**             | :material-lightbulb: **Knowledge Gained**: Insights and facts obtained from evaluating choices. |
+
+
 ---
 
 ## **How It Works:**
