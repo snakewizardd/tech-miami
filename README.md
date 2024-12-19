@@ -25,3 +25,4 @@ If you have questions or need to report issues, please reach out via the [Tech M
 
 _This repository is part of the Tech Miami project._
 
+Try redeploy
