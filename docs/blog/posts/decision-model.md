@@ -8,7 +8,7 @@ date: 2024-12-19
 comments: true
 ---
 
-# **Dynamic Decision-Making: A Recursive Model for Achieving Goals**
+# Dynamic Decision-Making: A Recursive Model for Achieving Goals
 
 ## **Introduction:**
 
