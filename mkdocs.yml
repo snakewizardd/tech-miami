@@ -25,6 +25,8 @@ plugins:
       categories_allowed:
         - AI/ML
         - Automation
+        - Mathematics
+        - Decision Science
       pagination_per_page: 5
   - tags
   - social: 
