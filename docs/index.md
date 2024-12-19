@@ -9,7 +9,7 @@ comments: true
 
 
 #### 💡 Latest Blog Posts:  
-- [Dynamic Decision-Making: A Recursive Model for Achieving Goals](blog/posts/decision-model.md)
+- [Dynamic Decision-Making - A Recursive Model for Achieving Goals](blog/posts/decision-model.md)
 - [Unleashing the Power of AI in Modern Web Development: A Game-Changer for Developers](blog/posts/ai-today.md)
 - [Exploring the Tech Landscape in Miami: Opportunities and Growth](blog/posts/who-we-are.md)
 - [Getting Started with Docker: A Beginner's Guide](blog/posts/getting-started-with-docker.md)
