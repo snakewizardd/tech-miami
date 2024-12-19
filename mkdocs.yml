@@ -7,10 +7,25 @@ theme:
   features:
     - navigation.indexes
     - content.tooltips
+    - navigation.sections
+    - navigation.expand 
+    - navigation.top
+
   logo: assets/clown.png 
   favicon: assets/images/clown.ico
   palette: 
-    scheme: slate
+    # Palette toggle for light mode
+    - scheme: default
+      accent: indigo
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      accent: lime
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   custom_dir: overrides
    
 plugins:
@@ -40,7 +55,13 @@ extra:
     - icon: fontawesome/brands/github
       name: snakewizardd on Github
       link: https://github.com/snakewizardd
-
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our site content and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our project better.
 hooks:
   - hooks/socialmedia.py
 
@@ -69,3 +90,7 @@ nav:
 
 extra_css:
 #  - stylesheets/extra.css
+
+copyright: >
+  Copyright &copy; 2024 Tech Miami –
+  <a href="#__consent">Change cookie settings</a>
