@@ -31,7 +31,7 @@ jobs:
             mkdocs-material-
 
       - name: Install dependencies
-        run: pip install mkdocs-material
+        run: pip install -r requirements.txt
 
       - name: Deploy MkDocs to GitHub Pages
         run: mkdocs gh-deploy --force
