@@ -1,0 +1,5 @@
+mkdocs 
+material 
+mkdocs-material[extensions] 
+cairosvg
+mkdocs-material[imaging]

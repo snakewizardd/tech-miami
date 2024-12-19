@@ -1,0 +1,68 @@
+site_name: Tech Miami
+site_description: Local resource for equipping you with the skills and knowledge needed to excel in today’s tech-driven world
+site_url: http://tech-miami.com
+
+theme:
+  name: material
+  features:
+    - navigation.indexes
+    - content.tooltips
+  logo: assets/clown.png 
+  favicon: assets/images/clown.ico
+  palette: 
+    scheme: slate
+   
+plugins:
+  - search
+  - blog:
+      blog_toc: true 
+      archive: false 
+      authors: true 
+      authors_profiles: true
+      authors_profiles_toc: true
+
+      archive_date_format: MMMM yyyy
+      categories_allowed:
+        - AI/ML
+        - Automation
+      pagination_per_page: 5
+  - tags
+  - social: 
+      cards: true
+
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      name: snakewizardd on Github
+      link: https://github.com/snakewizardd
+
+hooks:
+  - hooks/socialmedia.py
+
+markdown_extensions:
+  - abbr
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+
+nav:
+  - Home: index.md
+  - About: 
+    - Who We Are: how-tech-miami-works.md
+    - What We Offer: what-we-offer.md
+    - Getting Started: get-started.md
+  - Resources: 
+    - Learning to Code - First Steps: beginning-to-code.md
+  - Blog:
+     - blog/index.md
+
+extra_css:
+#  - stylesheets/extra.css

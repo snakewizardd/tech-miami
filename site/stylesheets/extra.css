@@ -1,0 +1,19 @@
+/* Background */
+body {
+    background:  #03371f; /* Beige to whiteish gradient */
+  }
+  
+  /* Navigation Bar */
+  .md-header {
+    background: #164c10; /* Muted beige */
+  }
+  
+ 
+  
+  /* Main Content Area */
+  .md-content {
+    background: #fdf8f3; /* Pale parchment tone */
+  }
+  
+  
+  
