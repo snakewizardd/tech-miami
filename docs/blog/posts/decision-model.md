@@ -22,9 +22,10 @@ Let me introduce you to a **dynamic decision-making model** that brings all of t
 
 Let’s get into the **core equation** behind this model:
 
-```
-Fₙ = P₀ * kFₙ₋₁ + m(T(f(Iₙ, IΔ)) + R(Dₙ, FMₙ))
-```
+$$
+F_n = P_0 \cdot k F_{n-1} + m \left( T\left( f\left(I_n, I_\Delta\right) \right) + R\left(D_n, FM_n\right) \right)
+$$
+
 
 ### **Where:**
 
