@@ -1,8 +1,11 @@
 site_name: Tech Miami
 site_description: Local resource for equipping you with the skills and knowledge needed to excel in today’s tech-driven world
 site_url: http://tech-miami.com
-
+repo_url: https://github.com/snakewizardd/tech-miami
+repo_name: snakewizardd/tech-miami
 theme:
+  icon:
+    repo: fontawesome/brands/github
   name: material
   features:
     - navigation.indexes
@@ -10,6 +13,12 @@ theme:
     - navigation.sections
     - navigation.expand 
     - navigation.top
+    - search.suggest
+    - search.share
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate 
+    - content.tooltips
 
   logo: assets/clown.png 
   favicon: assets/images/clown.ico
@@ -44,10 +53,17 @@ plugins:
         - Mathematics
         - Decision Science
       pagination_per_page: 5
-  - tags
+  - tags:
+        tags_file: tags.md 
+        tags_hierarchy: true
+
   - social: 
       cards: true
-
+  - git-revision-date-localized
+  - git-committers:
+      repository: snakewizardd/tech-miami
+      branch: main
+  #- git-authors
 
 extra:
   generator: false
@@ -72,9 +88,38 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+  - tables
+  - footnotes
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.blocks.caption
+  - pymdownx.snippets
+
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
 
 
 nav:
@@ -89,7 +134,7 @@ nav:
      - blog/index.md
 
 extra_css:
-#  - stylesheets/extra.css
+  - https://unpkg.com/katex@0/dist/katex.min.css
 
 copyright: >
   Copyright &copy; 2024 Tech Miami –
