@@ -59,7 +59,6 @@ plugins:
 
   - social: 
       cards: true
-      cards_layout: default/invert
 
 
   - git-revision-date-localized
