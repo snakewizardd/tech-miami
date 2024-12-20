@@ -57,13 +57,7 @@ plugins:
         tags_file: tags.md 
         tags_hierarchy: true
 
-  - social: 
-      cards: true
-      cards_layout: default/invert 
-      card_layout_options: 
-        background_color: transparent
-        color: black
-        font_family: Ubuntu
+  - social
 
 
   - git-revision-date-localized
