@@ -14,7 +14,7 @@ comments: true
 
 In the ever-changing world of decision-making, it's easy to fall into the trap of thinking that choices are isolated events. But what if I told you that your decisions are actually part of a larger, recursive process? A process where each choice influences the next, and where your goals evolve based on both your actions and the ever-growing pool of information around you?
 
-Let me introduce you to a **dynamic decision-making model** that brings all of this together. This model takes into account not only your initial goals but also the impact of previous decisions, the influence of time, and the information you gather along the way. It’s a recursive framework that simulates how we make decisions in real life. Strap in, because this is going to be deep and powerful.
+Let me introduce you to a **dynamic decision-making model** that brings all of this together. This model takes into account not only your initial goals but also the impact of previous decisions, the influence of time, and the information you gather along the way. It’s a recursive framework that simulates how we make decisions in real life. Strap in, because this is going to be deep and powerful. 
 
 ---
 
