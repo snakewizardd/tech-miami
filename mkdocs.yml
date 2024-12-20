@@ -57,7 +57,9 @@ plugins:
         tags_file: tags.md 
         tags_hierarchy: true
 
-  - social
+  - social: 
+      cards: true
+      cards_layout: default/invert
 
 
   - git-revision-date-localized
