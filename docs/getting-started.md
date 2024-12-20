@@ -7,16 +7,13 @@ hide:
 
 # Getting Started  
 
-We’re excited to have you here. Whether you’re just starting your journey in tech or you’re an experienced developer looking to expand your knowledge, we’ve designed this site to be intuitive and easy to navigate. The embdedded search bar is useful 
+Whether you’re just starting your journey in tech or you’re an experienced developer looking to expand your knowledge, we’re excited to have you here. 
 
 ---
 
 ## Navigating the Site  
 
-Our website is structured to provide you with clear and direct access to the resources you need.We strive to keep it fresh and updated with relevant information to kickstart your learning journey.
-
-- **What’s New**: Check out the latest updates on coding trends, resources, and upcoming events.
-- **Quick Links**: Access essential resources like coding tutorials, industry articles, and detailed project guides.
+Our website is structured to provide you with clear and direct access to the resources you need. We strive to keep it fresh and updated with relevant information to kickstart your learning journey.
 
 ---
 
@@ -47,8 +44,5 @@ The **Blog** is where we share the latest thoughts, trends, and in-depth article
 - **Bookmark Your Favorite Resources**: As you dive into our guides, don’t forget to bookmark the pages that resonate with you for quick access later.  
 - **Join the Community**: Stay connected with us and fellow learners by commenting on the embedded Giscus comment boards. Feel free to share your learning progress, ask questions, and interact with others passionate about tech.  
 
----
-
-## Join the Journey  
 
 Whether you’re a budding coder or a seasoned professional, Tech Miami is your space to learn, connect, and thrive. Together, we can shape the future of technology—one line of code, one idea, and one conversation at a time.  

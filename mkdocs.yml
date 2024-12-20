@@ -69,9 +69,9 @@ plugins:
 
 
   - git-revision-date-localized
-  - git-committers:
-      repository: snakewizardd/tech-miami
-      branch: main
+  #- git-committers:
+  #    repository: snakewizardd/tech-miami
+  #    branch: main
   #- git-authors
 
 extra:
@@ -136,7 +136,7 @@ nav:
   - About: 
     - Who We Are: how-tech-miami-works.md
     #- What We Offer: what-we-offer.md
-  - Getting Started: get-started.md
+  - Getting Started: getting-started.md
   - Resources: 
     - Introduction to Computer Programming: types-of-programming.md
     - Learning to Code - First Steps: beginning-to-code.md
