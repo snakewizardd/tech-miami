@@ -11,6 +11,8 @@ comments: true
 
 Miami is rapidly emerging as a thriving tech hub, blending innovation, diversity, and opportunity. At **Tech Miami**, we’re excited to be part of this evolution, empowering individuals and businesses to embrace technology in transformative ways.
 
+<!-- more -->
+
 ## Why Miami is the Next Tech Frontier
 
 With its vibrant culture and strategic location, Miami offers unique advantages for tech enthusiasts:

@@ -8,10 +8,10 @@ theme:
     repo: fontawesome/brands/github
   name: material
   features:
-    - navigation.indexes
+    #- navigation.indexes
     - content.tooltips
     - navigation.sections
-    - navigation.expand 
+    #- navigation.expand 
     - navigation.top
     - search.suggest
     - search.share
@@ -21,6 +21,12 @@ theme:
     - content.tooltips
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes 
+    - toc.follow
+    #- toc.integrate
+    - navigation.footer
+
   logo: assets/clown.png 
   favicon: assets/images/clown.ico
   palette: 
@@ -70,10 +76,10 @@ plugins:
 
 extra:
   generator: false
-  social:
-    - icon: fontawesome/brands/github
-      name: snakewizardd on Github
-      link: https://github.com/snakewizardd
+  #social:
+  #  - icon: fontawesome/brands/github
+  #    name: snakewizardd on Github
+  #    link: https://github.com/snakewizardd
   consent:
     title: Cookie consent
     description: >- 
@@ -129,9 +135,10 @@ nav:
   - Home: index.md
   - About: 
     - Who We Are: how-tech-miami-works.md
-    - What We Offer: what-we-offer.md
-    - Getting Started: get-started.md
+    #- What We Offer: what-we-offer.md
+  - Getting Started: get-started.md
   - Resources: 
+    - Introduction to Computer Programming: types-of-programming.md
     - Learning to Code - First Steps: beginning-to-code.md
   - Blog:
      - blog/index.md

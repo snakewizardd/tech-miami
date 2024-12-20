@@ -11,7 +11,7 @@ Starting to code can feel overwhelming, but it’s an incredibly rewarding journ
 
 ---
 
-## 🔑 Why Learn to Code?  
+## Why Learn to Code?  
 
 Before we dive into the practical steps, let’s talk about why coding is such a valuable skill.  
 
@@ -23,7 +23,7 @@ Before we dive into the practical steps, let’s talk about why coding is such a
 
 ---
 
-## 🛠️ What You’ll Need to Get Started  
+## What You’ll Need to Get Started  
 
 Before you begin coding, there are a few tools and resources you’ll need to set up:  
 
@@ -41,7 +41,7 @@ You’ll need a web browser like Chrome, Firefox, or Edge to view and test your 
 
 ---
 
-## 📘 The First Programming Languages  
+## The First Programming Languages  
 
 When you’re beginning to code, the choice of language can be daunting. But don’t worry—many programming languages share similar core principles, so learning one language will make it easier to learn others later. Here are a few great options for beginners:  
 
@@ -70,7 +70,7 @@ Once you have a basic understanding of HTML and CSS, learning JavaScript will al
 
 ---
 
-## 🚀 First Steps: Write Your First Program  
+## First Steps: Write Your First Program  
 
 Now that you have your tools and language selected, it’s time to write your first line of code. Let's start with Python.
 
