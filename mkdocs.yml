@@ -137,7 +137,7 @@ extra_javascript:
 nav:
   - Home: index.md
   - About: 
-    - Who We Are: how-tech-miami-works.md
+    - Who We Are: about.md
     #- What We Offer: what-we-offer.md
   - Getting Started: getting-started.md
   - Resources: 

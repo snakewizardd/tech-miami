@@ -8,9 +8,6 @@ hide:
 
 # Welcome to **Tech Miami**
 
-At **Tech Miami**, we’re at the forefront of equipping individuals and businesses with cutting-edge tech skills. Whether you're a curious beginner or an industry professional, we provide tools, insights, and resources to thrive in the rapidly evolving tech landscape.
-
----
 !!! tip "Our Mission"
     To empower individuals and businesses with **future-ready tech skills**, fostering innovation and collaboration in Miami's thriving tech community.
 ___
