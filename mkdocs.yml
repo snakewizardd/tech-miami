@@ -136,8 +136,7 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - About: 
-    - Who We Are: about.md
+  - About: about.md
     #- What We Offer: what-we-offer.md
   - Getting Started: getting-started.md
   - Resources: 
