@@ -6,9 +6,6 @@ categories:
   - Decision Science
 date: 2024-12-19
 comments: true
-social:
-  cards_layout_options: custom 
-  title: Dynamic Decision-Making - A Recursive Model for Achieving Goals
 ---
 
 # Dynamic Decision-Making - A Recursive Model for Achieving Goals

@@ -59,6 +59,13 @@ plugins:
 
   - social: 
       cards: true
+      cards_layout: default/invert 
+      card_layout_options: 
+        background_color: transparent
+        color: black
+        font_family: Ubuntu
+
+
   - git-revision-date-localized
   - git-committers:
       repository: snakewizardd/tech-miami
