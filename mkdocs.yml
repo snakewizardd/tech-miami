@@ -1,8 +1,8 @@
 site_name: Tech Miami
 site_description: Local resource for equipping you with the skills and knowledge needed to excel in today’s tech-driven world
 site_url: http://tech-miami.com
-#repo_url: https://github.com/snakewizardd/tech-miami
-#repo_name: snakewizardd/tech-miami
+repo_url: https://github.com/snakewizardd/tech-miami
+repo_name: snakewizardd/tech-miami
 theme:
   icon:
     repo: fontawesome/brands/github
@@ -82,7 +82,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       name: snakewizardd on Github
-      link: https://github.com/snakewizardd/tech-miami
+      link: https://github.com/snakewizardd
   consent:
     title: Cookie consent
     description: >- 
