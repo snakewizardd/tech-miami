@@ -25,6 +25,10 @@ ___
 
 
 ___
+ 
+We wish you and yours a very happy holidays season. Use the time to refresh your batteries, connect with those close to you, and appreciate all the good things. May 2025 bring us all a newfound thirst for knowledge, creativity, genuinity and innovation.
+
+<img src="assets/happy_holidays.png" alt="Happy Holidays" width="400" />
 
 
 
