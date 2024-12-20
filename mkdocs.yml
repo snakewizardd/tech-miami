@@ -30,14 +30,17 @@ theme:
   logo: assets/clown.png 
   favicon: assets/images/clown.ico
   palette: 
+    #primary: custom
     # Palette toggle for light mode
-    - scheme: default
+    - scheme: default 
+      #primary: custom
       accent: indigo
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
     # Palette toggle for dark mode
-    - scheme: slate
+    - scheme: slate 
+      #primary: custom
       accent: lime
       toggle:
         icon: material/brightness-4
@@ -145,6 +148,7 @@ nav:
 
 extra_css:
   - https://unpkg.com/katex@0/dist/katex.min.css
+  - stylesheets/extra.css
 
 copyright: >
   Copyright &copy; 2024 Tech Miami –
