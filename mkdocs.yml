@@ -62,6 +62,7 @@ plugins:
         - Automation
         - Mathematics
         - Decision Science
+        - Web Development
       pagination_per_page: 5
   - tags:
         tags_file: tags.md 

@@ -18,6 +18,7 @@ ___
 
 
 #### Latest Blog Posts:  
+- [Behind the Tech Miami Site](blog/posts/behind-the-site.md)
 - [Dynamic Decision-Making: A Recursive Model for Achieving Goals](blog/posts/decision-model.md)
 - [Unleashing the Power of AI in Modern Web Development: A Game-Changer for Developers](blog/posts/ai-today.md)
 - [Getting Started with Docker: A Beginner's Guide](blog/posts/getting-started-with-docker.md)
