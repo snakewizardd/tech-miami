@@ -72,9 +72,9 @@ plugins:
 
 
   - git-revision-date-localized
-  #- git-committers:
-  #    repository: snakewizardd/tech-miami
-  #    branch: main
+  - git-committers:
+      repository: snakewizardd/tech-miami
+      branch: main
   #- git-authors
 
 extra:
