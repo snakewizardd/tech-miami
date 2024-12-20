@@ -2,7 +2,7 @@ name: Deploy MkDocs Site
 on:
   push:
     branches:
-      - main
+      - inactive
 permissions:
   contents: write
 jobs:
