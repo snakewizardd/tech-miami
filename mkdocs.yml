@@ -20,6 +20,7 @@ theme:
     - content.code.annotate 
     - content.tooltips
     - navigation.tabs
+    - navigation.tabs.sticky
   logo: assets/clown.png 
   favicon: assets/images/clown.ico
   palette: 
