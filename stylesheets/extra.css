@@ -1,0 +1,16 @@
+ 
+  [data-md-color-scheme="youtube"] {
+    --md-primary-fg-color:        #EE0F0F;
+    --md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--dark:  #90030C;
+  }
+
+  [data-md-color-scheme="youtube_dark"] {
+    --md-primary-fg-color:        #EE0F0F;
+    --md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--dark:  #90030C;
+    --md-default-bg-color: #fff;
+    --md-default-bg-color--light: #ffffffb3;
+    --md-default-bg-color--lighter: #ffffff4d;
+    --md-default-bg-color--lightest: #ffffff1f;
+      }
