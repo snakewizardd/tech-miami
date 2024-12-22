@@ -16,6 +16,9 @@ ___
 - [Introduction to Computer Programming](types-of-programming.md)
 - [Learning to Code - First Steps](beginning-to-code.md)
 
+#### Intermediate/Advanced Resources:  
+- [Self-Hosting - Empowering You with Control and Privacy](self-hosting.md)
+
 
 #### Latest Blog Posts:  
 - [Behind the Tech Miami Site](blog/posts/behind-the-site.md)
