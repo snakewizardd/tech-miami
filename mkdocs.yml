@@ -139,8 +139,7 @@ nav:
   - Home: index.md
   - About: about.md
     #- What We Offer: what-we-offer.md
-  - Services: 
-    - services.md
+  - Services: services.md
   - Getting Started: getting-started.md
   - Resources: 
     - Introduction to Computer Programming: types-of-programming.md
