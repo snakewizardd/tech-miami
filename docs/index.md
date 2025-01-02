@@ -50,6 +50,7 @@ ___
 
 
 #### Latest Blog Posts:  
+- :new: [Running a Local Large Language Model with Docker](blog/posts/llm-docker-container.md)
 - [Behind the Tech Miami Site](blog/posts/behind-the-site.md)
 - [Dynamic Decision-Making: A Recursive Model for Achieving Goals](blog/posts/decision-model.md)
 - [Unleashing the Power of AI in Modern Web Development: A Game-Changer for Developers](blog/posts/ai-today.md)
