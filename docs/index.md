@@ -12,6 +12,35 @@ hide:
     To empower individuals and businesses with **future-ready tech skills**, fostering innovation and collaboration in Miami's thriving tech community.
 ___
 
+### [Services](services.md)
+
+<div class="grid cards" markdown>
+
+- :tada: **One-on-One Tutoring**  
+  Unlock your potential with personalized tutoring sessions designed to jumpstart or accelerate your tech journey.
+
+- :briefcase: **Business Consulting**  
+  Collaborate with industry experts to refine your processes, quality check your workflows, and drive digital transformation with confidence.
+
+</div>
+
+### Learning and Networking Resources
+
+<div class="grid cards" markdown>
+
+- :books: **Knowledge & Resource Sharing**  
+  Dive into a wealth of [resources, tutorials](types-of-programming.md), and [blog](blog/index.md) articles tailored for both beginners and seasoned professionals.
+
+- :handshake: **Local Connects & Networking**  
+  Join our vibrant community by contributing to GitHub projects, engaging in discussions on the embdedded discussion threads on each article, and attending local tech events in Miami (stay tuned!).
+
+</div>
+
+___
+
+
+
+
 #### Beginner's Resources:  
 - [Introduction to Computer Programming](types-of-programming.md)
 - [Learning to Code - First Steps](beginning-to-code.md)

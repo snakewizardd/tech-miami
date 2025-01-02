@@ -17,13 +17,18 @@ Our website is structured to provide you with clear and direct access to the res
 
 ---
 
+### **Services**  
+Dive into our [**Services**](services.md) section for a description of the types of services we offer here at Tech Miami.  
+
+---
+
 ### **Resources**  
-Dive into our **Resources** section for in-depth guides, tutorials, and technical documentation. This is your go-to place if you’re looking for well-curated content on a wide range of tech topics from beginner guides through advanced topics.  
+Dive into our [**Resources**](types-of-programming.md) section for in-depth guides, tutorials, and technical documentation. This is your go-to place if you’re looking for well-curated content on a wide range of tech topics from beginner guides through advanced topics.  
 
 ---
 
 ### **Blog**  
-The **Blog** is where we share the latest thoughts, trends, and in-depth articles on everything tech. Whether you're looking for cutting-edge industry updates or personal experiences in coding, our blog is the place to explore.  
+The [**Blog**](blog/index.md) is where we share the latest thoughts, trends, and in-depth articles on everything tech. Whether you're looking for cutting-edge industry updates or personal experiences in coding, our blog is the place to explore.  
 
 ---
 
