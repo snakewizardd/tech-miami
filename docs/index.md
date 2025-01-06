@@ -50,6 +50,7 @@ ___
 
 
 #### Latest Blog Posts:  
+- :new: [Business Intelligence (BI) Tools: A Comprehensive Guide](blog/posts/bi-tools.md)
 - :new: [Exploring the Diverse World of Tech R&D Jobs](blog/posts/jobs-tech-rd.md)
 - :new: [Setting Up a Webhook Programmatically](blog/posts/setting-up-a-webhook.md)
 - :new: [Effective Project Planning: Leveraging Social Media and Specialized Tools](blog/posts/tools-for-project-management.md)
