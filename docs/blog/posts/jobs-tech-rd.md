@@ -37,7 +37,7 @@ Backend developers are essential to the development of any application, and thei
 - **Frameworks**: Django, Spring Boot, Flask
 - **Cloud Platforms**: AWS, Google Cloud, Microsoft Azure
 
-=== "Role Comparison"
+!!!tip "Role Comparison"
     Backend developers differ from frontend developers in their focus. While backend developers handle the server and database logic, frontend developers manage the interface users interact with.
 
 ---

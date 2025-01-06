@@ -86,7 +86,7 @@ The cost of implementing BI solutions can vary widely, influenced by factors suc
 | **Training**             | Vendor-provided or third-party resources| Tailored to custom solution               |
 
 #### Example Calculation
-For a mid-sized organization with 50 users, choosing a BI tool like Power BI at $10/user/month would cost $6,000 annually. In contrast, a custom framework might require an initial $50,000 for development and $10,000/year for maintenance.
+For a mid-sized organization with 50 users, choosing a BI tool like Power BI at $10 per user per month would cost 6,000 dollars annually. In contrast, a custom framework might require an initial 50,000 dollars for development and 10,000 dollars per year for maintenance.
 
 ---
 
