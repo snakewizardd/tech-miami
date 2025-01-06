@@ -50,8 +50,9 @@ ___
 
 
 #### Latest Blog Posts:  
-- :new: [Effective Project Planning: Leveraging Social Media and Specialized Tools](blog/posts/tools-for-project-management.md)
+- :new: [Exploring the Diverse World of Tech R&D Jobs](blog/posts/jobs-tech-rd.md)
 - :new: [Setting Up a Webhook Programmatically](blog/posts/setting-up-a-webhook.md)
+- :new: [Effective Project Planning: Leveraging Social Media and Specialized Tools](blog/posts/tools-for-project-management.md)
 - [Running a Local Large Language Model with Docker](blog/posts/llm-docker-container.md)
 - [Behind the Tech Miami Site](blog/posts/behind-the-site.md)
 - [Dynamic Decision-Making: A Recursive Model for Achieving Goals](blog/posts/decision-model.md)
