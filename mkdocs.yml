@@ -63,6 +63,8 @@ plugins:
         - Mathematics
         - Decision Science
         - Web Development
+        - Project Management
+        - Agile Development
       pagination_per_page: 5
   - tags:
         tags_file: tags.md 
