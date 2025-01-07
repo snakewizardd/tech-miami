@@ -66,6 +66,7 @@ plugins:
         - Project Management
         - Agile Development 
         - Data Science
+        - IoT
       pagination_per_page: 5
   - tags:
         tags_file: tags.md 

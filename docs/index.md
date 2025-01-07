@@ -50,6 +50,7 @@ ___
 
 
 #### Latest Blog Posts: 
+- :new: [Building a Sensor Data Application: A Comprehensive Guide](blog/posts/sensor-data-app.md)
 - :new: [Unlocking the Power of Effective KPIs and Metrics](blog/posts/effective-kpis.md)
 - :new: [The Power of Map Visualization in R](blog/posts/r-map-visualization.md)
 - :new: [Unlocking the Power of Gen AI: A Deep Dive into RAG, Agents, and Workflows](blog/posts/genai-supertopic.md)
