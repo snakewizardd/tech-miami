@@ -50,6 +50,7 @@ ___
 
 
 #### Latest Blog Posts: 
+- :new: [Unlocking the Power of Gen AI: A Deep Dive into RAG, Agents, and Workflows](blog/posts/genai-supertopic.md)
 - :new: [Introduction to APIs and Creating a Simple One with Docker](blog/posts/simple-api.md)
 - :new: [Norms for Success in Tech R&D/IT/DevOps/Tech Engineering](blog/posts/norms-for-success.md) 
 - [Business Intelligence (BI) Tools: A Comprehensive Guide](blog/posts/bi-tools.md)
