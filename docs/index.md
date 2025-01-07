@@ -49,11 +49,12 @@ ___
 - [Self-Hosting - Empowering You with Control and Privacy](self-hosting.md)
 
 
-#### Latest Blog Posts:  
-- :new: [Business Intelligence (BI) Tools: A Comprehensive Guide](blog/posts/bi-tools.md)
-- :new: [Exploring the Diverse World of Tech R&D Jobs](blog/posts/jobs-tech-rd.md)
-- :new: [Setting Up a Webhook Programmatically](blog/posts/setting-up-a-webhook.md)
-- :new: [Effective Project Planning: Leveraging Social Media and Specialized Tools](blog/posts/tools-for-project-management.md)
+#### Latest Blog Posts: 
+- :new: [Norms for Success in Tech R&D/IT/DevOps/Tech Engineering](blog/posts/norms-for-success.md) 
+- [Business Intelligence (BI) Tools: A Comprehensive Guide](blog/posts/bi-tools.md)
+- [Exploring the Diverse World of Tech R&D Jobs](blog/posts/jobs-tech-rd.md)
+- [Setting Up a Webhook Programmatically](blog/posts/setting-up-a-webhook.md)
+- [Effective Project Planning: Leveraging Social Media and Specialized Tools](blog/posts/tools-for-project-management.md)
 - [Running a Local Large Language Model with Docker](blog/posts/llm-docker-container.md)
 - [Behind the Tech Miami Site](blog/posts/behind-the-site.md)
 - [Dynamic Decision-Making: A Recursive Model for Achieving Goals](blog/posts/decision-model.md)
