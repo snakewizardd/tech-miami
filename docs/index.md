@@ -50,6 +50,7 @@ ___
 
 
 #### Latest Blog Posts: 
+- :new: [Introduction to APIs and Creating a Simple One with Docker](blog/posts/simple-api.md)
 - :new: [Norms for Success in Tech R&D/IT/DevOps/Tech Engineering](blog/posts/norms-for-success.md) 
 - [Business Intelligence (BI) Tools: A Comprehensive Guide](blog/posts/bi-tools.md)
 - [Exploring the Diverse World of Tech R&D Jobs](blog/posts/jobs-tech-rd.md)
