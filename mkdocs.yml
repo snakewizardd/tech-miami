@@ -64,7 +64,8 @@ plugins:
         - Decision Science
         - Web Development
         - Project Management
-        - Agile Development
+        - Agile Development 
+        - Data Science
       pagination_per_page: 5
   - tags:
         tags_file: tags.md 
