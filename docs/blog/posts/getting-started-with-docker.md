@@ -7,7 +7,7 @@ date: 2024-12-18
 comments: true
 ---
 
-# Getting Started with Docker: A Beginner's Guide
+# **Getting Started with Docker: A Beginner's Guide**
 
 Docker has become a cornerstone of modern software development, allowing developers to create, deploy, and run applications in containers. In this guide, we’ll walk you through the basics of Docker to help you kickstart your journey.
 

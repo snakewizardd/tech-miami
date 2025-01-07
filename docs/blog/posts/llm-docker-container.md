@@ -10,7 +10,7 @@ description: "Learn how to set up and run a local large language model using Doc
 
 ---
 
-# Running a Local Large Language Model with Docker
+# **Running a Local Large Language Model with Docker**
 
 This guide will walk you through running a local large language model (LLM) using Docker. We'll use the Koboldcpp repository, a lightweight and efficient LLM runner.
 

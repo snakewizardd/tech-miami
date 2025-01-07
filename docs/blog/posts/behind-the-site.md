@@ -8,7 +8,7 @@ date: 2024-12-20
 comments: true
 ---
 
-# Behind the Tech Miami Site 
+# **Behind the Tech Miami Site**
 
 TechMiami.com is a static website generated via the MkDocs framework and specifically the Material theme. It combines the use of Markdown for content generation with a customizable and easy-to-configure website template that brings to life even basic ideas down on text. We chose this framework for the Tech Miami platform to demonstrate the use and viability of open-source Markdown-to-site frameworks like MkDocs and anothers in leveling the bar of entry to allow you to share your content on the web in a user-friendly and also comprehensive manner.
 

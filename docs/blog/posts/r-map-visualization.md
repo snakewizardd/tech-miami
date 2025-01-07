@@ -8,7 +8,7 @@ date: 2025-01-07
 comments: true
 ---
 
-# The Power of Map Visualization in R
+# **The Power of Map Visualization in R**
 
 Map visualization is a transformative approach for analyzing and communicating geographic data insights. By representing complex datasets visually, maps enable us to discern patterns and relationships that might be challenging to identify otherwise. This article delves into the immense potential of map visualization in R, detailing the prerequisites for creating maps, exploring essential packages such as `leaflet` and `ggplot2`, and providing a practical example to bring these concepts to life.
 
