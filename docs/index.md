@@ -57,17 +57,17 @@ ___
 
     <div class="grid cards" markdown>
 
-    - [Exploring the Diverse World of Tech R&D Jobs](blog/posts/jobs-tech-rd.md)
+    - [Exploring the Diverse World of Tech R&D Jobs](jobs-tech-rd.md)
 
-    - [Norms for Success in Tech R&D/IT/DevOps/Tech Engineering](blog/posts/norms-for-success.md) 
+    - [Norms for Success in Tech R&D/IT/DevOps/Tech Engineering](norms-for-success.md) 
 
-    - [Effective Project Planning: Leveraging Social Media and Specialized Tools](blog/posts/tools-for-project-management.md)
+    - [Effective Project Planning: Leveraging Social Media and Specialized Tools](tools-for-project-management.md)
 
-    - [Unlocking the Power of Effective KPIs and Metrics](blog/posts/effective-kpis.md)
+    - [Unlocking the Power of Effective KPIs and Metrics](effective-kpis.md)
 
-    - [Aligning Short and Long-Term Project Goals and Outcomes: A Key to Successful Software Development](blog/posts/aligning-short-longterm-outcomes.md)
+    - [Aligning Short and Long-Term Project Goals and Outcomes: A Key to Successful Software Development](aligning-short-longterm-outcomes.md)
 
-    - [Best Practices for Software Developers: Elevating Your Craft](blog/posts/fundamental-best-practices.md)
+    - [Best Practices for Software Developers: Elevating Your Craft](fundamental-best-practices.md)
 
     </div>
 
@@ -78,13 +78,13 @@ ___
 
     <div class="grid cards" markdown>
 
-    - [Getting Started with Docker: A Beginner's Guide](blog/posts/getting-started-with-docker.md)
+    - [Getting Started with Docker: A Beginner's Guide](getting-started-with-docker.md)
 
-    - [Introduction to APIs and Creating a Simple One with Docker](blog/posts/simple-api.md)
+    - [Introduction to APIs and Creating a Simple One with Docker](simple-api.md)
 
-    - [Setting Up a Webhook Programmatically](blog/posts/setting-up-a-webhook.md)
+    - [Setting Up a Webhook Programmatically](setting-up-a-webhook.md)
 
-    - [Integrating Giscus: Embracing the Power of Open Source and Community-Driven Commenting](blog/posts/giscus-integration.md)
+    - [Integrating Giscus: Embracing the Power of Open Source and Community-Driven Commenting](giscus-integration.md)
 
     - [Self-Hosting - Empowering You with Control and Privacy](self-hosting.md)
 
@@ -97,7 +97,7 @@ ___
     !!! custom "Business Intelligence"
         <div class="grid cards" markdown>
 
-        - [Business Intelligence (BI) Tools: A Comprehensive Guide](blog/posts/bi-tools.md)
+        - [Business Intelligence (BI) Tools: A Comprehensive Guide](bi-tools.md)
 
 
         </div>
@@ -105,11 +105,11 @@ ___
     !!! custom2 "Decision Science"
         <div class="grid cards" markdown>
 
-        - [Dynamic Decision-Making: A Recursive Model for Achieving Goals](blog/posts/decision-model.md)
+        - [Dynamic Decision-Making: A Recursive Model for Achieving Goals](decision-model.md)
 
-        - [Optimization Algorithms: Unlocking Efficiency in Tech Automation](blog/posts/optimization-algorithms.md)
+        - [Optimization Algorithms: Unlocking Efficiency in Tech Automation](optimization-algorithms.md)
 
-        - [Unlocking the Power of Deep Learning: A Dive into Vectors, Semantic Algorithms, and Neural Networks](blog/posts/deep-learning-overview.md)
+        - [Unlocking the Power of Deep Learning: A Dive into Vectors, Semantic Algorithms, and Neural Networks](deep-learning-overview.md)
 
 
         </div>
@@ -117,9 +117,9 @@ ___
     !!! custom2 "Data Science"
         <div class="grid cards" markdown>
 
-        - [In-Real-Time Data Syncing and Processing: Unlocking Reproducible Workflows](blog/posts/real-time-data-sync.md)
+        - [In-Real-Time Data Syncing and Processing: Unlocking Reproducible Workflows](real-time-data-sync.md)
 
-        - [The Power of Map Visualization in R](blog/posts/r-map-visualization.md)
+        - [The Power of Map Visualization in R](r-map-visualization.md)
 
         </div>
 
@@ -127,11 +127,11 @@ ___
     !!! custom2 "AI/ML"
         <div class="grid cards" markdown>
 
-        - [Running a Local Large Language Model with Docker](blog/posts/llm-docker-container.md)
+        - [Running a Local Large Language Model with Docker](llm-docker-container.md)
 
-        - [Unlocking the Power of Gen AI: A Deep Dive into RAG, Agents, and Workflows](blog/posts/genai-supertopic.md)
+        - [Unlocking the Power of Gen AI: A Deep Dive into RAG, Agents, and Workflows](genai-supertopic.md)
 
-        - [Unleashing the Power of AI in Modern Web Development: A Game-Changer for Developers](blog/posts/ai-today.md)
+        - [Unleashing the Power of AI in Modern Web Development: A Game-Changer for Developers](ai-today.md)
 
         </div>
 
@@ -141,9 +141,9 @@ ___
 
     <div class="grid cards" markdown>
 
-    - [Building a Sensor Data Application: A Comprehensive Guide](blog/posts/sensor-data-app.md)
+    - [Building a Sensor Data Application: A Comprehensive Guide](sensor-data-app.md)
 
-    - [Vision Processing: Unlocking the Power of Image Analysis](blog/posts/vision-processing.md)
+    - [Vision Processing: Unlocking the Power of Image Analysis](vision-processing.md)
 
     </div>
 
