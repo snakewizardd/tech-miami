@@ -6,7 +6,7 @@ categories:
   - Agile Development
   - Decision Science
   - Web Development
-date: 2024-12-20
+date: 2025-01-07
 comments: true
 ---
 
