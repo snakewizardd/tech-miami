@@ -16,13 +16,15 @@ ___
 
 <div class="grid cards" markdown>
 
-- **One-on-One Tutoring**  
-  Unlock your potential with personalized tutoring sessions designed to jumpstart or accelerate your tech journey.
-
 - **Business Consulting**  
   Collaborate with industry experts to refine your processes, quality check your workflows, and drive digital transformation with confidence.
 
+- **One-on-One Tutoring**  
+  Unlock your potential with personalized tutoring sessions designed to jumpstart or accelerate your tech journey.
+
 </div>
+
+___ 
 
 ### Learning and Networking Resources
 
@@ -36,9 +38,7 @@ ___
 
 </div>
 
-___
-
-### Resources and Blog Posts
+#### Resources and Blog Posts
 
 ??? question "Getting Started in Tech"
     A foundational set of resources to help you begin your journey into the world of programming and tech.

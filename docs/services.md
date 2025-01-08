@@ -7,35 +7,6 @@ hide:
 
 # Services
 
-## One-on-One Tutoring
-
-Unlock your potential with **personalized tutoring sessions** tailored to your goals and experience level. Whether you're just starting or looking to master advanced topics, we've got you covered.
-
-!!! tip "Tutoring"
-    Tutoring sessions are conducted online via Zoom. Pre-requisites are an active internet connection and a computer good enough to run basic code, but requirements will vary depending on the needs and requirements of the individual learning plan.
-
-**Tutoring Pricing**
-
-| Session Length       | Price               |
-| -------------------- | ------------------- |
-| 30 minutes tutoring  | $55         |
-| 1 hour tutoring      | $100        |
-| 5-hour package    | $450     |
-
-### Topics Covered
-
-- **Beginner Coding**: Learn programming fundamentals, best practices, and hands-on coding.
-- **Career Advice**: Craft a tech-focused career path, ace interviews, and build a standout portfolio.
-- **Automation & DevOps**: Master CI/CD pipelines, infrastructure as code, and efficient workflows.
-- **Data Science**: Explore data visualization, analytics, and predictive modeling.
-- **AI & Machine Learning**: Gain insights into neural networks, NLP, and AI implementation.
-- **Mathematics**: Tackle everything from algebra to calculus to advanced statistical methods.
-- **Custom Topics**: Have a specific learning objective? We'll design a curriculum just for you.
-
-> *"Investing in yourself is the best decision you can make for your future."*
-
----
-
 ## Business Consulting
 
 Work with one of the industry's **leading experts** to transform your business processes with confidence. We ensure top-notch quality control and help you embrace digitalization to stay ahead in today’s competitive landscape.
@@ -62,6 +33,35 @@ Work with one of the industry's **leading experts** to transform your business p
 - **Custom Solutions**: Every business is unique, and so are our consulting services.
 
 > *"Digital transformation isn’t about tools; it’s about creating better experiences and processes."*
+
+___
+
+## One-on-One Tutoring
+
+Unlock your potential with **personalized tutoring sessions** tailored to your goals and experience level. Whether you're just starting or looking to master advanced topics, we've got you covered.
+
+!!! tip "Tutoring"
+    Tutoring sessions are conducted online via Zoom. Pre-requisites are an active internet connection and a computer good enough to run basic code, but requirements will vary depending on the needs and requirements of the individual learning plan.
+
+**Tutoring Pricing**
+
+| Session Length       | Price               |
+| -------------------- | ------------------- |
+| 30 minutes tutoring  | $55         |
+| 1 hour tutoring      | $100        |
+| 5-hour package    | $450     |
+
+### Topics Covered
+
+- **Beginner Coding**: Learn programming fundamentals, best practices, and hands-on coding.
+- **Career Advice**: Craft a tech-focused career path, ace interviews, and build a standout portfolio.
+- **Automation & DevOps**: Master CI/CD pipelines, infrastructure as code, and efficient workflows.
+- **Data Science**: Explore data visualization, analytics, and predictive modeling.
+- **AI & Machine Learning**: Gain insights into neural networks, NLP, and AI implementation.
+- **Mathematics**: Tackle everything from algebra to calculus to advanced statistical methods.
+- **Custom Topics**: Have a specific learning objective? We'll design a curriculum just for you.
+
+> *"Investing in yourself is the best decision you can make for your future."*
 
 ---
 
