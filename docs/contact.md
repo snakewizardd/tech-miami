@@ -5,7 +5,7 @@ hide:
   - navigation
 ---
 
-## :speech_balloon: Let’s Connect
+## Let’s Connect
 
 We’d love to hear from you! Whether you have questions, want to schedule a service, or simply connect, here are the best ways to reach us:
 

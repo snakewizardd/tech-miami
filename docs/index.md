@@ -16,10 +16,10 @@ ___
 
 <div class="grid cards" markdown>
 
-- :tada: **One-on-One Tutoring**  
+- **One-on-One Tutoring**  
   Unlock your potential with personalized tutoring sessions designed to jumpstart or accelerate your tech journey.
 
-- :briefcase: **Business Consulting**  
+- **Business Consulting**  
   Collaborate with industry experts to refine your processes, quality check your workflows, and drive digital transformation with confidence.
 
 </div>
@@ -28,10 +28,10 @@ ___
 
 <div class="grid cards" markdown>
 
-- :books: **Knowledge & Resource Sharing**  
+- **Knowledge & Resource Sharing**  
   Dive into a wealth of [resources, tutorials](types-of-programming.md), and [blog](blog/index.md) articles tailored for both beginners and seasoned professionals.
 
-- :handshake: **Local Connects & Networking**  
+- **Local Connects & Networking**  
   Join our vibrant community by contributing to GitHub projects, engaging in discussions on the embdedded discussion threads on each article, and attending local tech events in Miami (stay tuned!).
 
 </div>
@@ -40,7 +40,7 @@ ___
 
 ### Resources and Blog Posts
 
-!!! question "Getting Started in Tech"
+??? question "Getting Started in Tech"
     A foundational set of resources to help you begin your journey into the world of programming and tech.
 
     <div class="grid cards" markdown>
@@ -52,7 +52,7 @@ ___
     </div>
 
 
-!!! abstract "Career Development in Tech"
+??? abstract "Career Development in Tech"
     Guidance on building a successful career in tech, including project management, professional growth, and best practices.
 
     <div class="grid cards" markdown>
@@ -73,7 +73,7 @@ ___
 
 
 
-!!! pied-piper "Web Development and Automation"
+??? pied-piper "Web Development and Automation"
     Resources focused on mastering web development, automation tools, and self-hosting for developers.
 
     <div class="grid cards" markdown>
@@ -91,10 +91,10 @@ ___
     </div>
 
 
-!!! info "Data, AI, ML"
+??? info "Data, AI, ML"
     Exploration of data science, decision-making models, and the integration of AI technologies to enhance problem-solving and efficiency.
 
-    !!! custom "Business Intelligence"
+    ???+ custom "Business Intelligence"
         <div class="grid cards" markdown>
 
         - [Business Intelligence (BI) Tools: A Comprehensive Guide](bi-tools.md)
@@ -102,7 +102,7 @@ ___
 
         </div>
 
-    !!! custom2 "Decision Science"
+    ???+ custom2 "Decision Science"
         <div class="grid cards" markdown>
 
         - [Dynamic Decision-Making: A Recursive Model for Achieving Goals](decision-model.md)
@@ -114,7 +114,7 @@ ___
 
         </div>
 
-    !!! custom2 "Data Science"
+    ???+ custom2 "Data Science"
         <div class="grid cards" markdown>
 
         - [In-Real-Time Data Syncing and Processing: Unlocking Reproducible Workflows](real-time-data-sync.md)
@@ -124,7 +124,7 @@ ___
         </div>
 
 
-    !!! custom2 "AI/ML"
+    ???+ custom2 "AI/ML"
         <div class="grid cards" markdown>
 
         - [Running a Local Large Language Model with Docker](llm-docker-container.md)
@@ -136,7 +136,7 @@ ___
         </div>
 
 
-!!! note "Internet of Things (IoT)"
+??? note "Internet of Things (IoT)"
     Practical insights into building IoT applications and using advanced technologies for real-world sensor and image processing.
 
     <div class="grid cards" markdown>
@@ -148,7 +148,7 @@ ___
     </div>
 
 
-!!! tip "Miami Tech Scene"
+??? tip "Miami Tech Scene"
     A look at the thriving tech ecosystem in Miami, from local opportunities to behind-the-scenes insights into the Tech Miami site.
     
     <div class="grid cards" markdown>

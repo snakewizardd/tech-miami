@@ -111,7 +111,7 @@ stateDiagram-v2
 
 ---
 
-## 🌟 Wrapping Up
+## Wrapping Up
 
 Docker is a powerful tool that can simplify development and deployment workflows. By understanding the basics and experimenting with containers, you’ll unlock a new level of efficiency and scalability in your projects. Start your Docker journey today!
 
