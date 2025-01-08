@@ -40,114 +40,124 @@ ___
 
 ### Resources and Blog Posts
 
-#### Getting Started in Tech
-<div class="grid cards" markdown>
+!!! question "Getting Started in Tech"
+    A foundational set of resources to help you begin your journey into the world of programming and tech.
 
-- [Introduction to Computer Programming](types-of-programming.md)
+    <div class="grid cards" markdown>
 
-- [Learning to Code - First Steps](beginning-to-code.md)
+    - [Introduction to Computer Programming](types-of-programming.md)
 
-</div>
+    - [Learning to Code - First Steps](beginning-to-code.md)
 
-
-
-#### Career Development in Tech
-
-<div class="grid cards" markdown>
-
-- [Exploring the Diverse World of Tech R&D Jobs](blog/posts/jobs-tech-rd.md)
-
-- [Norms for Success in Tech R&D/IT/DevOps/Tech Engineering](blog/posts/norms-for-success.md) 
-
-- [Effective Project Planning: Leveraging Social Media and Specialized Tools](blog/posts/tools-for-project-management.md)
-
-- [Unlocking the Power of Effective KPIs and Metrics](blog/posts/effective-kpis.md)
-
-- [Aligning Short and Long-Term Project Goals and Outcomes: A Key to Successful Software Development](blog/posts/aligning-short-longterm-outcomes.md)
-
-- [Best Practices for Software Developers: Elevating Your Craft](blog/posts/fundamental-best-practices.md)
-
-</div>
+    </div>
 
 
+!!! abstract "Career Development in Tech"
+    Guidance on building a successful career in tech, including project management, professional growth, and best practices.
 
-#### Web Development and Automation
-<div class="grid cards" markdown>
+    <div class="grid cards" markdown>
 
-- [Getting Started with Docker: A Beginner's Guide](blog/posts/getting-started-with-docker.md)
+    - [Exploring the Diverse World of Tech R&D Jobs](blog/posts/jobs-tech-rd.md)
 
-- [Introduction to APIs and Creating a Simple One with Docker](blog/posts/simple-api.md)
+    - [Norms for Success in Tech R&D/IT/DevOps/Tech Engineering](blog/posts/norms-for-success.md) 
 
-- [Setting Up a Webhook Programmatically](blog/posts/setting-up-a-webhook.md)
+    - [Effective Project Planning: Leveraging Social Media and Specialized Tools](blog/posts/tools-for-project-management.md)
 
-- [Integrating Giscus: Embracing the Power of Open Source and Community-Driven Commenting](blog/posts/giscus-integration.md)
+    - [Unlocking the Power of Effective KPIs and Metrics](blog/posts/effective-kpis.md)
 
-- [Self-Hosting - Empowering You with Control and Privacy](self-hosting.md)
+    - [Aligning Short and Long-Term Project Goals and Outcomes: A Key to Successful Software Development](blog/posts/aligning-short-longterm-outcomes.md)
 
-</div>
+    - [Best Practices for Software Developers: Elevating Your Craft](blog/posts/fundamental-best-practices.md)
+
+    </div>
 
 
 
-#### Business Intelligence
-<div class="grid cards" markdown>
+!!! pied-piper "Web Development and Automation"
+    Resources focused on mastering web development, automation tools, and self-hosting for developers.
 
-- [Business Intelligence (BI) Tools: A Comprehensive Guide](blog/posts/bi-tools.md)
+    <div class="grid cards" markdown>
 
+    - [Getting Started with Docker: A Beginner's Guide](blog/posts/getting-started-with-docker.md)
 
-</div>
+    - [Introduction to APIs and Creating a Simple One with Docker](blog/posts/simple-api.md)
 
-#### Decision Science
-<div class="grid cards" markdown>
+    - [Setting Up a Webhook Programmatically](blog/posts/setting-up-a-webhook.md)
 
-- [Dynamic Decision-Making: A Recursive Model for Achieving Goals](blog/posts/decision-model.md)
+    - [Integrating Giscus: Embracing the Power of Open Source and Community-Driven Commenting](blog/posts/giscus-integration.md)
 
-- [Optimization Algorithms: Unlocking Efficiency in Tech Automation](blog/posts/optimization-algorithms.md)
+    - [Self-Hosting - Empowering You with Control and Privacy](self-hosting.md)
 
-- [Unlocking the Power of Deep Learning: A Dive into Vectors, Semantic Algorithms, and Neural Networks](blog/posts/deep-learning-overview.md)
-
-
-</div>
-
-#### Data Science 
-<div class="grid cards" markdown>
-
-- [In-Real-Time Data Syncing and Processing: Unlocking Reproducible Workflows](blog/posts/real-time-data-sync.md)
-
-- [The Power of Map Visualization in R](blog/posts/r-map-visualization.md)
-
-</div>
+    </div>
 
 
-#### AI/ML
-<div class="grid cards" markdown>
+!!! info "Data, AI, ML"
+    Exploration of data science, decision-making models, and the integration of AI technologies to enhance problem-solving and efficiency.
 
-- [Running a Local Large Language Model with Docker](blog/posts/llm-docker-container.md)
+    !!! custom "Business Intelligence"
+        <div class="grid cards" markdown>
 
-- [Unlocking the Power of Gen AI: A Deep Dive into RAG, Agents, and Workflows](blog/posts/genai-supertopic.md)
-
-- [Unleashing the Power of AI in Modern Web Development: A Game-Changer for Developers](blog/posts/ai-today.md)
-
-</div>
+        - [Business Intelligence (BI) Tools: A Comprehensive Guide](blog/posts/bi-tools.md)
 
 
-#### Internet of Things (IoT)
-<div class="grid cards" markdown>
+        </div>
 
-- [Building a Sensor Data Application: A Comprehensive Guide](blog/posts/sensor-data-app.md)
+    !!! custom2 "Decision Science"
+        <div class="grid cards" markdown>
 
-- [Vision Processing: Unlocking the Power of Image Analysis](blog/posts/vision-processing.md)
+        - [Dynamic Decision-Making: A Recursive Model for Achieving Goals](blog/posts/decision-model.md)
 
-</div>
+        - [Optimization Algorithms: Unlocking Efficiency in Tech Automation](blog/posts/optimization-algorithms.md)
+
+        - [Unlocking the Power of Deep Learning: A Dive into Vectors, Semantic Algorithms, and Neural Networks](blog/posts/deep-learning-overview.md)
 
 
-#### Miami Tech Scene
-<div class="grid cards" markdown>
+        </div>
 
-- [Behind the Tech Miami Site](blog/posts/behind-the-site.md)
+    !!! custom2 "Data Science"
+        <div class="grid cards" markdown>
 
-- [Exploring the Tech Landscape in Miami: Opportunities and Growth](blog/posts/who-we-are.md)
+        - [In-Real-Time Data Syncing and Processing: Unlocking Reproducible Workflows](blog/posts/real-time-data-sync.md)
 
-</div>
+        - [The Power of Map Visualization in R](blog/posts/r-map-visualization.md)
+
+        </div>
+
+
+    !!! custom2 "AI/ML"
+        <div class="grid cards" markdown>
+
+        - [Running a Local Large Language Model with Docker](blog/posts/llm-docker-container.md)
+
+        - [Unlocking the Power of Gen AI: A Deep Dive into RAG, Agents, and Workflows](blog/posts/genai-supertopic.md)
+
+        - [Unleashing the Power of AI in Modern Web Development: A Game-Changer for Developers](blog/posts/ai-today.md)
+
+        </div>
+
+
+!!! note "Internet of Things (IoT)"
+    Practical insights into building IoT applications and using advanced technologies for real-world sensor and image processing.
+
+    <div class="grid cards" markdown>
+
+    - [Building a Sensor Data Application: A Comprehensive Guide](blog/posts/sensor-data-app.md)
+
+    - [Vision Processing: Unlocking the Power of Image Analysis](blog/posts/vision-processing.md)
+
+    </div>
+
+
+!!! tip "Miami Tech Scene"
+    A look at the thriving tech ecosystem in Miami, from local opportunities to behind-the-scenes insights into the Tech Miami site.
+    
+    <div class="grid cards" markdown>
+
+    - [Behind the Tech Miami Site](blog/posts/behind-the-site.md)
+
+    - [Exploring the Tech Landscape in Miami: Opportunities and Growth](blog/posts/who-we-are.md)
+
+    </div>
 
 ___
  
