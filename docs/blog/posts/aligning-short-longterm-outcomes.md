@@ -14,7 +14,7 @@ comments: true
 
 As a software development team, it's easy to get caught up in the day-to-day tasks of coding, testing, and deploying. However, keeping the bigger picture in mind and ensuring alignment between your project goals and broader business objectives is essential. This article explores the importance of aligning short- and long-term project goals, the challenges involved, and actionable strategies to maintain alignment. 
 
-<!-- more -->
+<!-- more --> 
 
 ## The Importance of Alignment
 
