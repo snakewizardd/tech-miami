@@ -150,37 +150,34 @@ nav:
       - Introduction to Computer Programming: types-of-programming.md
       - Learning to Code - First Steps: beginning-to-code.md    
     - Career Development in Tech:
-      - Exploring the Diverse World of Tech R&D Jobs: blog/posts/jobs-tech-rd.md
-      - Norms for Success in Tech R&D/IT/DevOps/Tech Engineering: blog/posts/norms-for-success.md 
-      - Effective Project Planning - Leveraging Social Media and Specialized Tools: blog/posts/tools-for-project-management.md
-      - Unlocking the Power of Effective KPIs and Metrics: blog/posts/effective-kpis.md
-      - Aligning Short and Long-Term Project Goals and Outcomes -A Key to Successful Software Development: blog/posts/aligning-short-longterm-outcomes.md
-      - Best Practices for Software Developers - Elevating Your Craft: blog/posts/fundamental-best-practices.md
+      - Exploring the Diverse World of Tech R&D Jobs: jobs-tech-rd.md
+      - Norms for Success in Tech R&D/IT/DevOps/Tech Engineering: norms-for-success.md 
+      - Effective Project Planning - Leveraging Social Media and Specialized Tools: tools-for-project-management.md
+      - Unlocking the Power of Effective KPIs and Metrics: effective-kpis.md
+      - Aligning Short and Long-Term Project Goals and Outcomes -A Key to Successful Software Development: aligning-short-longterm-outcomes.md
+      - Best Practices for Software Developers - Elevating Your Craft: fundamental-best-practices.md
     - Web Development and Automation:
-      - Getting Started with Docker - A Beginner's Guide: blog/posts/getting-started-with-docker.md
-      - Introduction to APIs and Creating a Simple One with Docker: blog/posts/simple-api.md
-      - Setting Up a Webhook Programmatically: blog/posts/setting-up-a-webhook.md
-      - Integrating Giscus - Embracing the Power of Open Source and Community-Driven Commenting: blog/posts/giscus-integration.md
+      - Getting Started with Docker - A Beginner's Guide: getting-started-with-docker.md
+      - Introduction to APIs and Creating a Simple One with Docker: simple-api.md
+      - Setting Up a Webhook Programmatically: setting-up-a-webhook.md
+      - Integrating Giscus - Embracing the Power of Open Source and Community-Driven Commenting: giscus-integration.md
       - Self-Hosting - Empowering You with Control and Privacy: self-hosting.md
     - Business Intelligence: 
-      - Business Intelligence (BI) Tools - A Comprehensive Guide: blog/posts/bi-tools.md
+      - Business Intelligence (BI) Tools - A Comprehensive Guide: bi-tools.md
     - Decision Science: 
-      - Dynamic Decision-Making - A Recursive Model for Achieving Goals: blog/posts/decision-model.md
-      - Optimization Algorithms - Unlocking Efficiency in Tech Automation: blog/posts/optimization-algorithms.md
-      - Unlocking the Power of Deep Learning - A Dive into Vectors, Semantic Algorithms, and Neural Networks: blog/posts/deep-learning-overview.md
+      - Dynamic Decision-Making - A Recursive Model for Achieving Goals: decision-model.md
+      - Optimization Algorithms - Unlocking Efficiency in Tech Automation: optimization-algorithms.md
+      - Unlocking the Power of Deep Learning - A Dive into Vectors, Semantic Algorithms, and Neural Networks: deep-learning-overview.md
     - Data Science: 
-      - In-Real-Time Data Syncing and Processing - Unlocking Reproducible Workflows: blog/posts/real-time-data-sync.md
-      - The Power of Map Visualization in R: blog/posts/r-map-visualization.md
+      - In-Real-Time Data Syncing and Processing - Unlocking Reproducible Workflows: real-time-data-sync.md
+      - The Power of Map Visualization in R: r-map-visualization.md
     - AI/ML:
-      - Running a Local Large Language Model with Docker: blog/posts/llm-docker-container.md
-      - Unlocking the Power of Gen AI - A Deep Dive into RAG, Agents, and Workflows: blog/posts/genai-supertopic.md
-      - Unleashing the Power of AI in Modern Web Development - A Game-Changer for Developers: blog/posts/ai-today.md
+      - Running a Local Large Language Model with Docker: llm-docker-container.md
+      - Unlocking the Power of Gen AI - A Deep Dive into RAG, Agents, and Workflows: genai-supertopic.md
+      - Unleashing the Power of AI in Modern Web Development - A Game-Changer for Developers: ai-today.md
     - Internet of Things (IoT):
-      - Building a Sensor Data Application - A Comprehensive Guide: blog/posts/sensor-data-app.md
-      - Vision Processing - Unlocking the Power of Image Analysis: blog/posts/vision-processing.md
-    - Miami Tech Scene: 
-      - Behind the Tech Miami Site: blog/posts/behind-the-site.md
-      - Exploring the Tech Landscape in Miami - Opportunities and Growth: blog/posts/who-we-are.md
+      - Building a Sensor Data Application - A Comprehensive Guide: sensor-data-app.md
+      - Vision Processing - Unlocking the Power of Image Analysis: vision-processing.md
   - Blog:
      - blog/index.md 
   - Contact: contact.md
