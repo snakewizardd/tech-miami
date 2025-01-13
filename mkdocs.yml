@@ -175,6 +175,7 @@ nav:
       - Running a Local Large Language Model with Docker: llm-docker-container.md
       - Unlocking the Power of Gen AI - A Deep Dive into RAG, Agents, and Workflows: genai-supertopic.md
       - Unleashing the Power of AI in Modern Web Development - A Game-Changer for Developers: ai-today.md
+      - Text to Music/Audio -Unlocking the Harmony of Language: text-to-music.md
     - Internet of Things (IoT):
       - Building a Sensor Data Application - A Comprehensive Guide: sensor-data-app.md
       - Vision Processing - Unlocking the Power of Image Analysis: vision-processing.md

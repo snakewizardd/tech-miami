@@ -40,6 +40,7 @@ ___
 
 #### Resources and Blog Posts
 
+
 ??? question "Getting Started in Tech"
     A foundational set of resources to help you begin your journey into the world of programming and tech.
 
@@ -133,6 +134,9 @@ ___
 
         - [Unleashing the Power of AI in Modern Web Development: A Game-Changer for Developers](ai-today.md)
 
+        - [Text to Music/Audio: Unlocking the Harmony of Language](text-to-music.md)
+
+
         </div>
 
 
@@ -159,6 +163,8 @@ ___
 
     </div>
 
+*New Posts*
+- :new: [Text to Music/Audio: Unlocking the Harmony of Language](text-to-music.md)
 ___
  
 We wish you and yours a very happy holidays season. Use the time to refresh your batteries, connect with those close to you, and appreciate all the good things. May 2025 bring us all a newfound thirst for knowledge, creativity, genuinity and innovation.
