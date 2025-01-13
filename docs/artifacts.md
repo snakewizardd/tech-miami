@@ -117,4 +117,3 @@ By understanding and leveraging artifacts, you can improve the efficiency, repea
 
 1. [GitHub Actions Documentation](https://docs.github.com/en/actions)
 2. [AWS Elastic Container Registry](https://aws.amazon.com/ecr/)
-3. [Best Practices for Artifact Management](https://example.com)
