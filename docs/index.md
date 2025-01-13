@@ -88,6 +88,9 @@ ___
     - [Integrating Giscus: Embracing the Power of Open Source and Community-Driven Commenting](giscus-integration.md)
 
     - [Self-Hosting - Empowering You with Control and Privacy](self-hosting.md)
+     
+    - [Understanding Artifacts: Theory and Practical Applications](artifacts.md)
+
 
     </div>
 
@@ -164,7 +167,10 @@ ___
     </div>
 
 *New Posts*
+
 - :new: [Text to Music/Audio: Unlocking the Harmony of Language](text-to-music.md)
+- :new: [Understanding Artifacts: Theory and Practical Applications](artifacts.md)
+
 ___
  
 We wish you and yours a very happy holidays season. Use the time to refresh your batteries, connect with those close to you, and appreciate all the good things. May 2025 bring us all a newfound thirst for knowledge, creativity, genuinity and innovation.
