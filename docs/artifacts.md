@@ -42,7 +42,6 @@ Artifacts can also be categorized based on their lifecycle and usage:
 2. **Final Artifacts**: These are the end products of a pipeline, such as executables, Docker images, or deployment scripts, intended for long-term use.
 3. **Metadata Artifacts**: Logs and test reports fall into this category, offering valuable insights for debugging and optimization but not directly used in deployments.
 
-### **Annotation Example (MkDocs Material)**
 
 !!! note
     Artifacts are crucial for ensuring traceability and transparency in complex systems. By maintaining a well-organized artifact repository, teams can streamline collaboration and enhance accountability.
