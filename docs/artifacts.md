@@ -44,10 +44,9 @@ Artifacts can also be categorized based on their lifecycle and usage:
 
 ### **Annotation Example (MkDocs Material)**
 
-```md
 !!! note
     Artifacts are crucial for ensuring traceability and transparency in complex systems. By maintaining a well-organized artifact repository, teams can streamline collaboration and enhance accountability.
-```
+
 
 **Similarities and Differences with Images**
 ------------------------------------------
